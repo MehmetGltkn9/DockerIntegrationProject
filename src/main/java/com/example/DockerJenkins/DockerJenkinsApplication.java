@@ -9,6 +9,7 @@ public class DockerJenkinsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DockerJenkinsApplication.class, args);
                 System.out.println("com.example.DockerJenkins.DockerJenkinsApplication.main()");
+                System.out.println("com.example.DockerJenkins.DockerJenkinsApplication.main()");
 	}
 
 }
