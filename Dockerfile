@@ -1,3 +1,3 @@
 FROM openjdk:21
-ADD target/DockerJenkins-0.0.1-SNAPSHOT.jar app.jar
+ADD /index.html index.html
 ENTRYPOINT ["java","-jar","app.jar"]
