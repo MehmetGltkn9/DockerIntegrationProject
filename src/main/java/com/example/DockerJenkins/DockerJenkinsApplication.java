@@ -10,6 +10,7 @@ public class DockerJenkinsApplication {
 		SpringApplication.run(DockerJenkinsApplication.class, args);
                 System.out.println("com.example.DockerJenkins.DockerJenkinsApplication.main()");
             System.out.println("com.example.DockerJenkins.DockerJenkinsApplication.main()");
+            System.out.println("com.example.DockerJenkins.DockerJenkinsApplication.main()");
 	}
 
 }
